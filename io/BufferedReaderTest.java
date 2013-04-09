@@ -11,7 +11,7 @@ class BufferedReaderTest
 	  //filereader's pipe
       BufferedReader br = new BufferedReader(new FileReader("D:\\codes\\java\\mess\\HelloWorld.txt"));
 	  BufferedWriter bw = new BufferedWriter(new FileWriter("D:\\codes\\java\\mess\\HelloWorld.txt"));
-	  //writer
+	  //writer±ØÐëÇ¶Ì×Ê¹ÓÃ
 	  for(int i =0;i<100;i++)
 	  {
 	    s2=String.valueOf(Math.random());
