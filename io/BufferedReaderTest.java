@@ -9,8 +9,8 @@ class BufferedReaderTest
     try
 	{
 	  //filereader's pipe
-      BufferedReader br = new BufferedReader(new FileReader("D:/IO/guohao.java"));
-	  BufferedWriter bw = new BufferedWriter(new FileWriter("D:/IO/guohaoWrite.c"));
+      BufferedReader br = new BufferedReader(new FileReader("D:\\codes\\java\\mess\\HelloWorld.txt"));
+	  BufferedWriter bw = new BufferedWriter(new FileWriter("D:\\codes\\java\\mess\\HelloWorld.txt"));
 	  //writer
 	  for(int i =0;i<100;i++)
 	  {

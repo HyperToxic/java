@@ -8,7 +8,7 @@ class FileReaderTest
 	FileReader fr = null;
 	try
 	{
-	  fr = new FileReader("D:/IO/guohao.java");
+	  fr = new FileReader("D:\\codes\\java\\mess\\HelloWorld.txt");
 	  
 	}
 	
