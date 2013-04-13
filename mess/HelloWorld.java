@@ -16,6 +16,8 @@ public class HelloWorld
 	{
 		System.out.println("Hello,World!");
 		p("im a man");
+		p("Hello,Buddy");//测试win7系统变量，以及中文字符显示设置
+		p("测试中文cmd");
 	}
 	
 	public static void p(Object o)

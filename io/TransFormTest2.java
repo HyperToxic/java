@@ -25,6 +25,7 @@ class TransFormTest2
 	  }
 	  br.close();
 	}
+	//测试系统中文
 	
 	catch(IOException ioe)
 	{

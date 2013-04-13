@@ -9,7 +9,7 @@ class PrintStreamTest2
 		BufferedReader bw = new BufferedReader(new InputStreamReader(System.in));
 		
 		try{
-			FileWriter fw = new FileWriter("D:/codes/java/mess/writeLog.txt");
+			FileWriter fw = new FileWriter("D:/codes/java/practice/mess/writeLog.txt",true);
 			PrintWriter pw = new PrintWriter(fw);
 			while((s=bw.readLine()) != null)
 			{

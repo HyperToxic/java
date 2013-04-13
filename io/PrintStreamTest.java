@@ -1,3 +1,4 @@
+//²éÔÄAPIÎÄµµ~~~~~
 package toxic;
 import java.io.*;
 class PrintStreamTest
